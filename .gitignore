@@ -1,0 +1,5 @@
+#env
+gpt-env/
+
+#models
+fine_tuned_gpt2_ms_marco/
